@@ -67,7 +67,7 @@ public class BrandController {
     public String bunsuk(HttpServletRequest req, @RequestParam(required = false) String pageNum,
                          @RequestParam(required = false) String sortBy, Model model) {
     	String mode = req.getParameter("mode");
-    	
+    	System.out.println(mode);
         HttpSession session = req.getSession();
         String id = (String) session.getAttribute("loginId");
         String tablename = req.getParameter("tablename");
