@@ -67,6 +67,10 @@ function searchMember(mode){
                   <li><a href="admin.do">관리자</a></li>
                   <li><a href="javascript:searchMember('id')">아이디 찾기</a></li>
                   <li><a href="javascript:searchMember('pw')">비밀번호 찾기</a></li>
+                                    <li><a href="javascript:searchMember('id')">아이디 찾기</a></li>
+                  <li><a href="javascript:searchMember('pw')">비밀번호 찾기</a></li>
+                                    <li><a href="javascript:searchMember('id')">아이디 찾기</a></li>
+                  <li><a href="javascript:searchMember('pw')">비밀번호 찾기</a></li>
                </ul>
             </div>
          </div>
