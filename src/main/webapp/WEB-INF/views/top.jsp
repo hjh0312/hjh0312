@@ -126,6 +126,10 @@ img {
             <div class="gnb">
                <ul>
                   <li><a href="main.do">HOME</a></li>
+                    <li><a href="main.do">suckzin</a></li>
+                      <li><a href="main.do">suckzin</a></li>
+                        <li><a href="main.do">HOME</a></li>
+                        
                   <li><p>/</p>
                   <li>
                   <li><a href="sangkwon.do">상권정보</a></li>
